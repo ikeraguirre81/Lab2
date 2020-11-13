@@ -1,0 +1,4 @@
+name: gd_env
+channels:
+  - defaults
+prefix: /Users/ikeraguirreotaegui/opt/anaconda3/envs/gd_env
